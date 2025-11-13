@@ -12,6 +12,7 @@ const PORT = process.env.PORT || 5000;
 
 // ✅ Allowed frontend origins
 const allowedOrigins = [
+  "https://indore-route-locator-khxhjufiy-twiddleds-projects.vercel.app",
   "https://indore-route-locator.vercel.app/",
   "http://localhost:3000",
   "http://localhost:5173",
